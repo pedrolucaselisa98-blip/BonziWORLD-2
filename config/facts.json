@@ -104,7 +104,13 @@
         ],
         [
                 {"type": 1, "anim": "earth_fwd"},
-                {"type": 0, "text": "Did you know that Luca actually revealed his face?"},
+                {"type": 0, "text": "Aqua CEO was bad, he was the fake radical and fake sticky, fuck him."},
+                {"type": 1, "anim": "earth_back"},
+                {"type": 1, "anim": "grin_fwd"},
+        ],
+        [
+                {"type": 1, "anim": "earth_fwd"},
+                {"type": 0, "text": "Did you know that bonzi.app was leaked? so they have decide to change it."},
                 {"type": 1, "anim": "earth_back"},
                 {"type": 1, "anim": "grin_fwd"},
                 {"type": 1, "anim": "grin_back"}
