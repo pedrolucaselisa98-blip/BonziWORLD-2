@@ -1,7 +1,6 @@
 {
 	"port": 3000,
-	"godword": [
-		"disabled"
+	"godword": "seamussucks",
 	],
 	"jimmode": "5cb442744f34b03775a7cb51fd32fc0bfe787b3a52443a5dd90b0ff6e2efcf18",
 	"maxmode": "ffcf8d1de137d15a0a58fd36e014e27a18f7150f77f17c1a50992024f797652c",
